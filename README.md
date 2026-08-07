@@ -71,9 +71,9 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** RITHIK S N
+**Name:** NADISH S
 
-**Reg No:** 212224050039
+**Reg No:** 212224050023
 
 
 
