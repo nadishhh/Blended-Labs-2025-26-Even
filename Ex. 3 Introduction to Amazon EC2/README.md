@@ -2,9 +2,8 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: NADISH S
+* **Register Number**: 212224050023
 
 ---
 
@@ -98,11 +97,14 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. Logged in to the AWS Management Console and opened the **Amazon EC2 Dashboard**.
+
+2. Launched an **EC2 instance** using the Amazon Linux 2 AMI, selected the **t2.micro** instance type, and configured the key pair and security group.
+
+3. Connected to the running instance using **SSH** and performed basic operations such as **stop, start, and reboot** while monitoring its status.
+
+4. After completing the experiment, checked the instance monitoring details and **terminated the EC2 instance** to avoid unnecessary charges.
+
 
 ---
 
@@ -110,19 +112,25 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="1913" height="982" alt="ex3 1 clo" src="https://github.com/user-attachments/assets/161d0470-3dfb-4ff0-9a1e-12336db94201" />
+
+
 
 ---
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
+<img width="1186" height="747" alt="ex3 2 clo" src="https://github.com/user-attachments/assets/74fbea1e-7497-421e-9501-b881969f02c9" />
+
 
 ---
 
 ### Screenshot 3: Instance Monitoring / Status
 
-(Insert Screenshot Here)
+<img width="1918" height="983" alt="ex3 3 clo" src="https://github.com/user-attachments/assets/7edbb9f5-a1bb-48c7-922c-812eb613d037" />
+<img width="1918" height="983" alt="ex3 4 clo" src="https://github.com/user-attachments/assets/b91cb591-3a94-45e3-8def-7db885eba989" />
+
+
 
 ---
 
